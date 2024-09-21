@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/waitfreeringbuffer.dir/cpp_server/queue/compare_exchange_strong.cpp.o -o waitfreeringbuffer  /usr/local/lib/libbenchmark.a -lrt

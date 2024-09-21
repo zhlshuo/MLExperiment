@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_websocket_server_maven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_websocket_server_maven_jar</output-path>
+    <root id="archive" name="java_websocket_server_maven.jar">
+      <element id="module-output" name="java_websocket_server_maven" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/2.0.10/slf4j-simple-2.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/lmax/disruptor/4.0.0/disruptor-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/neilalexander/jnacl/1.0.0/jnacl-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/java-websocket/Java-WebSocket/1.5.5/Java-WebSocket-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/zeromq/jeromq/0.5.4/jeromq-0.5.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

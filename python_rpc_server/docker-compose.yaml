@@ -1,0 +1,11 @@
+version: '3'
+services:
+  python_rpc_server_service:
+    container_name: python_rpc_server_container
+    image: python_rpc_server
+    cpus: 1
+    mem_limit: 512m
+    # host port:container port
+    # 8080:80 means http://{container_ip}:8080 will be mapped to port 80 inside container
+    ports:
+      - "4001:4001"

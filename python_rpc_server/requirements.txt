@@ -1,0 +1,4 @@
+grpcio==1.53.0
+grpcio-tools==1.53.0
+mysqlclient==2.1.1
+sqlalchemy==2.0.9

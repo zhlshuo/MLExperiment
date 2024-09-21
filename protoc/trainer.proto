@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+service ModelTrainer {
+    rpc train(ModelTrainerRequest) returns (stream ModelTrainerResponse) {}
+}
+
+message ModelTrainerRequest {
+    string code = 1;
+}
+
+message ModelTrainerResponse {
+    string log = 1;
+}

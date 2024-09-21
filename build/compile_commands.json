@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/zhlshuo/code/MultiProjectTemplate/build",
+  "command": "/usr/bin/g++ -DBENCHMARK_STATIC_DEFINE  -g -o CMakeFiles/waitfreeringbuffer.dir/cpp_server/queue/compare_exchange_strong.cpp.o -c /home/zhlshuo/code/MultiProjectTemplate/cpp_server/queue/compare_exchange_strong.cpp",
+  "file": "/home/zhlshuo/code/MultiProjectTemplate/cpp_server/queue/compare_exchange_strong.cpp",
+  "output": "CMakeFiles/waitfreeringbuffer.dir/cpp_server/queue/compare_exchange_strong.cpp.o"
+}
+]

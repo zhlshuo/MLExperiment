@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+service ImageLoader {
+    rpc load(ImageLoaderRequest) returns (ImageLoaderResponse) {}
+}
+
+message ImageLoaderRequest {
+    string name = 1;
+}
+
+message ImageLoaderResponse {
+    bool isFinished = 1;
+}

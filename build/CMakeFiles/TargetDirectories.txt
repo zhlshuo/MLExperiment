@@ -1,0 +1,5 @@
+/home/zhlshuo/code/MultiProjectTemplate/build/CMakeFiles/waitfreeringbuffer.dir
+/home/zhlshuo/code/MultiProjectTemplate/build/CMakeFiles/package.dir
+/home/zhlshuo/code/MultiProjectTemplate/build/CMakeFiles/package_source.dir
+/home/zhlshuo/code/MultiProjectTemplate/build/CMakeFiles/edit_cache.dir
+/home/zhlshuo/code/MultiProjectTemplate/build/CMakeFiles/rebuild_cache.dir
